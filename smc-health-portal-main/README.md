@@ -5,6 +5,12 @@ SAMVED Hackathon 2026
 
 ---
 
+## 🌐 Live Preview
+
+🔗 https://smchealth.netlify.app/
+
+---
+
 ## 📌 Project Overview
 
 SMC Health is a mobile-first public health management platform designed for Solapur Municipal Corporation.
@@ -36,4 +42,3 @@ This project is built using:
 - React
 - shadcn-ui
 - Tailwind CSS
-
